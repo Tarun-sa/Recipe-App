@@ -1,0 +1,4 @@
+react splide for carasoul
+npm i framer-motion for animation
+npm i styled-components for CSS
+npm i react-icons for icons
